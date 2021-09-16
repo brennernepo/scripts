@@ -262,7 +262,7 @@ else:
 # 
 # Meta = 20 k
 
-# In[36]:
+# In[36]: print ('FIM.')
 
 
 # E se possuímos mais de um caso sim ou não?
